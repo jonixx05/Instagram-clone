@@ -1,8 +1,8 @@
-#INSTAGRAM CLONE
+# INSTAGRAM CLONE
 
 This a cross platform mobile app that works on both iOS and Android
 
-##FEATURES
+## FEATURES
 
 - Responsive Instagram UI
 - Email & Password Authentication
@@ -16,7 +16,7 @@ This a cross platform mobile app that works on both iOS and Android
 - Sign Out
 
 
-33TECHNOLOGY USED
+## TECHNOLOGY USED
 
 Server: Firebase Auth, Firebase Storage, Firebase Firestore
 
