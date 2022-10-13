@@ -1,16 +1,21 @@
-# instagram_clone
+INSTAGRAM CLONE
 
-A new Flutter project.
+This a cross platform mobile app that works on both iOS and Android
 
-## Getting Started
+FEATURES
+Responsive Instagram UI
+Email & Password Authentication
+Share Posts with Caption
+Display Posts with Caption
+Like & Comment on Posts
+Search Users
+Follow Users
+Display User Posts, Followers & Following
+Everything works real time
+Sign Out
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+TECHNOLOGY USED
+Server: Firebase Auth, Firebase Storage, Firebase Firestore
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Client: Flutter, Provider
