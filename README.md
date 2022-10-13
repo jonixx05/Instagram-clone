@@ -26,6 +26,7 @@ Sign Out
 
 
 TECHNOLOGY USED
+
 Server: Firebase Auth, Firebase Storage, Firebase Firestore
 
 Client: Flutter, Provider
